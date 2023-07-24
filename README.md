@@ -1,2 +1,2 @@
 # MNIST-Digit-Classification
-Mnist digit classification using keras/colab
+Mnist digit classification using multiple algorithms (CNN, RNN, DNN, LSTM)
